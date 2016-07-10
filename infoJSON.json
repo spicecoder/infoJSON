@@ -1,0 +1,31 @@
+{"anApp":[
+  {
+    "a": "b",
+    "c": "d",
+    "title": "Starter",
+    "action": {
+      "goList": "f"
+    }
+  },
+  [
+    "e",
+    "f",
+    "g",
+    "h",
+    {
+      "title": "lister" 
+    }, {
+     "action": {
+      "find": "h"
+    } }
+  ],
+  {
+    "m": "n",
+    "o": "p",
+    "title": "f",
+     "action": {
+      "fetch": "g"
+    }
+  }
+]
+}
